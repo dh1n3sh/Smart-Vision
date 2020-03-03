@@ -1,2 +1,2 @@
 # Smart-Vision
-![Screenshot](/Smart-Vision/Screenshot.png)
+![Screenshot](https://github.com/dh1n3sh/Smart-Vision/blob/master/Screenshot.png)
